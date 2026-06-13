@@ -1,0 +1,45 @@
+Project Tasks
+
+1
+
+Initial Setup
+
+    Task 0: Get Started  (DONE)
+
+    Task 1: Get API Keys  (DONE)
+
+2
+
+Explore USAJobs API
+
+    Task 2: Fetch Real Job Listings  (DONE)
+
+3
+
+Build Your Crew
+
+    Task 3: Understand Agents, Tasks, and Crews  (DONE)
+
+    Task 4: Analyze a Job Description with an AI Agent  (DONE)
+
+    Task 5: Run Your First Agent with CrewAI  (DONE)
+
+    Task 6: Create the Resume and Cover Letter Agent  (DONE)
+
+    Task 7: Add the Resume Agent to the Crew  (DONE)
+
+    Task 8: Create the Messaging Agent  (DONE)
+
+    Task 9: Add the Messaging Agent to the Crew  (DONE)
+
+4
+
+Create an Interactive Web Interface
+
+    Task 10: Build a Streamlit Interface to Run Your Agent Workflow  (DONE)
+
+    Task 11: Let the User Select from Multiple Jobs  (DONE)
+
+    Task 12: Log the Application Details  (DONE)
+
+    Congratulations!

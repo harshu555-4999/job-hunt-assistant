@@ -1,0 +1,23 @@
+<<OUTREACH_MESSAGE>>
+Hello Hiring Manager,
+
+I hope this message finds you well. My name is [Your Full Name], and I recently applied for the Program Analyst position at [Government Agency Name]. Your mission to support Veterans, Service Members, and their families through the 24/7 crisis line service is incredibly inspiring. I am confident that my background in data analysis and my experience with tools like Power BI and SQL can contribute effectively to this mission.
+
+I look forward to the opportunity to discuss how my skills align with the responsibilities of this role further.
+
+Best regards,
+[Your Full Name]
+
+<<FOLLOW_UP_EMAIL>>
+Subject: Follow-Up on Application for Program Analyst Position
+
+Dear Hiring Manager,
+
+I hope this email finds you well. I recently applied for the Program Analyst position at [Government Agency Name], and I wanted to politely follow up on my application. Your organization's commitment to supporting Veterans, Service Members, and their families is truly remarkable, and I am eager to contribute to your mission through my data analysis expertise.
+
+If there are any additional documents or information you need from me, please do not hesitate to contact me at [Phone Number] or via email at [Email Address].
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can support this vital program further.
+
+Best regards,
+[Your Full Name]
