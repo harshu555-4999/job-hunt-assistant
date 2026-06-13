@@ -1,5 +1,21 @@
 # Job Hunt Assistant
 
+## Live Demo
+
+🚀 https://job-hunt-assistant-bcnkmvx29caus5hsg5gtwf.streamlit.app/
+
+Job Hunt Assistant is a basic learning project that connects USAJobs search, a few CrewAI agents, and a simple Streamlit interface.
+
+The app can:
+
+* Search USAJobs by keyword and location
+* Let the user select one job from the results
+* Paste resume text
+* Run a basic CrewAI workflow
+* Generate a job analysis, resume summary, cover letter, outreach message, and follow-up email
+* Save the cover letter and log basic application details
+
+
 Job Hunt Assistant is a basic learning project that connects USAJobs search, a few CrewAI agents, and a simple Streamlit interface.
 
 The app can:
