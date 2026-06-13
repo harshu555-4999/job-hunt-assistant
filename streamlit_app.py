@@ -58,7 +58,7 @@ def get_ollama_models():
     return models
 
 
-st.set_page_config(page_title="Job Hunt Assistant")
+st.set_page_config(page_title="Job CHunt Assistant")
 
 st.title("Job Hunt Assistant")
 st.write("Search USAJobs, choose one posting, and run the basic CrewAI workflow.")
