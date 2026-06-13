@@ -7,8 +7,8 @@ def fetch_jobs(keyword="software developer", location="", results_per_page=5):
     url = "https://data.usajobs.gov/api/search"
     headers = {
         "Host": "data.usajobs.gov",
-        "User-Agent": USAJOBS_EMAIL or "",
-        "Authorization-Key": USAJOBS_API_KEY or ""
+        "User-Agent": USAJOBS_EMAIL or "1008hjs@gmail.com",
+        "Authorization-Key": USAJOBS_API_KEY or "3AtGRZS3Y6nZ6PSosfzm1bbNIDF1tfp/mqziXMS8+ro="
     }
     params = {
         "Keyword": keyword,
